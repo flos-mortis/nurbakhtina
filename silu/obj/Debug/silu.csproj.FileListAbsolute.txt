@@ -1,7 +1,0 @@
-C:\Repository\nurbakhtina_11910\silu\bin\Debug\silu.exe.config
-C:\Repository\nurbakhtina_11910\silu\bin\Debug\silu.exe
-C:\Repository\nurbakhtina_11910\silu\bin\Debug\silu.pdb
-C:\Repository\nurbakhtina_11910\silu\obj\Debug\silu.csprojAssemblyReference.cache
-C:\Repository\nurbakhtina_11910\silu\obj\Debug\silu.csproj.CoreCompileInputs.cache
-C:\Repository\nurbakhtina_11910\silu\obj\Debug\silu.exe
-C:\Repository\nurbakhtina_11910\silu\obj\Debug\silu.pdb
